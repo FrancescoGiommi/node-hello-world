@@ -15,4 +15,4 @@ Dovremmo vedere il terminale senza fermare e rilanciare il server.
 Proviamo a passare da terminale una parola come argomento. da mostrare dopo “Hello”. 
 Dovremo quindi stampare “Hello parola_passata” */
 
-console.log("Hello World");
+console.log("Hello Boolean");
