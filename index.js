@@ -16,3 +16,11 @@ Proviamo a passare da terminale una parola come argomento. da mostrare dopo “H
 Dovremo quindi stampare “Hello parola_passata” */
 
 console.log("Hello Boolean");
+
+let text = process.argv[2];
+
+console.log(text);
+
+text = process.argv[2];
+
+console.log(text);
